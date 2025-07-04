@@ -2,6 +2,7 @@
 <html lang="pt-BR">
 
 <head>
+    <?php include('/g-tags.php'); ?>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="google-adsense-account" content="ca-pub-8124594027670911">
